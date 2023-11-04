@@ -14,7 +14,7 @@ body {
   background: #000;
 }
 
-/* ... (previous CSS code) ... */
+
 
 .container {
   position: relative;
@@ -23,11 +23,11 @@ body {
   background: #000;
   padding: 30px;
   overflow: hidden;
-  border-radius: 10px; /* Change border-radius to 10px for a rectangular shape */
+  border-radius: 10px; 
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* ... (rest of the CSS code) ... */
+
 
 
 
@@ -46,7 +46,7 @@ label {
   color: #fff;
 }
 
-/* ... (previous CSS code) ... */
+
 
 select {
   width: 100%;
@@ -56,11 +56,11 @@ select {
   border-radius: 5px;
   margin-bottom: 20px;
   background: #fff;
-  color: #000; /* Set text color to black */
+  color: #000; 
   font-size: 14px;
 }
 
-/* ... (rest of the CSS code) ... */
+
 
 
 .start-screen .btn {
